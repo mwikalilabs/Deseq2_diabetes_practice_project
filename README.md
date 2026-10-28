@@ -31,7 +31,7 @@ Python, Jupyter Notebook, pandas, numpy, seaborn, matplotlib, scikit-learn, PyDE
 - One normal sample is an outlier on the PCA plot.(It was kept in the analysis.)
 - Whole islets contain a mixture of cell types.
 
-#### This analysis is for learning the workflow and not for drawing conclusions about type 2 diabetes.
+#### This analysis is a practice project for learning the workflow and not for drawing conclusions about type 2 diabetes.
 
 ### Repository contents
 
