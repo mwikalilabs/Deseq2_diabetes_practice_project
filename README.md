@@ -1,5 +1,5 @@
 ## Deseq2_diabetes_practice_project
-## Practising the differential expression workflow: type 2 diabetes vs healthy pancreatic islets
+### Practising the differential expression workflow: type 2 diabetes vs healthy pancreatic islets
 
 **This is a practice project.** I built it to get hands-on experience with RNA-seq differential expression workflow. It is a learning exercise, not original research, and nothing here should be read as a scientific finding.
 
